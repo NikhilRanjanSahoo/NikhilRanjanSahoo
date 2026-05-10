@@ -42,13 +42,6 @@ Currently a **3rd-year B.Tech CS Student** at ITER (SOA University), Bhubaneswar
 
 ---
 
-### 📊 My GitHub Journey:
-
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilRanjanSahoo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilRanjanSahoo&layout=compact&theme=tokyonight)
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikhil-ranjan-sahoo-225986312)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
